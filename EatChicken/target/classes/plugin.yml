@@ -1,0 +1,6 @@
+name: EatChicken
+version: '1.0-SNAPSHOT'
+main: me.matt.eatchicken.EatChicken
+api-version: '1.20'
+authors: [Mattgyve1990]
+description: Eat the chicken by pressing the RBM while sitting on the shift.
